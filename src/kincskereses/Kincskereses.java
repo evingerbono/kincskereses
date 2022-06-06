@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 public class Kincskereses {
-
+//Az én programo szerint a 2. vagyi az Ezüst ládában van a kincs.
     
     public static void main(String[] args) {
         
